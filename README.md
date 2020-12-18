@@ -1,7 +1,7 @@
 ### Hi Saddam hossain here 👋
 
-- 🔭 I’m currently working on C# | .Net Core | .NET 5.0 | RESTful API | Blazor | MSSQL
-- 🌱 I’m currently learning Blazor | Azure
+- 🔭 I’m currently working on C# | .Net Core | .NET 5.0 | Web API | Blazor | MSSQL
+- 🌱 I’m currently learning Blazor | Azure | Docker | Kubernetes | Microservices
 - 👯 I’m looking to collaborate on Quick Desk Project Version in .NET 5.0 with Blazor
 - 🤔 I’m looking for help with my New Projects
 - 💬 Ask me about ASP.NET Core | .Net Core | MSSQL
