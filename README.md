@@ -10,7 +10,7 @@
 <a href="https://www.freelancer.com/u/saddamhossain953"> Freelancer </a>
 - 😄 Pronouns: Md. Saddam Hossain
 - ⚡ Fun fact: I write more code and speak less
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saddamhossain" alt="saddamhossain" /> </p>
 <!--
 **saddamhossain/saddamhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
