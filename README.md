@@ -11,6 +11,14 @@
 - 😄 Pronouns: Md. Saddam Hossain
 - ⚡ Fun fact: I write more code and speak less
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saddamhossain" alt="saddamhossain" /> </p>
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+</div>
+<br>
+<br>
+
 <!--
 **saddamhossain/saddamhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
