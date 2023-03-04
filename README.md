@@ -157,8 +157,5 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 <img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=7&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
-![saddamhossain's github activity graph](https://activity-graph.herokuapp.com/graph?username=saddamhossain&theme=xcode)
-  
   ----
 </p>
