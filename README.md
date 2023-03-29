@@ -2,15 +2,6 @@
 #### <p align="left"> Professional full stack developer with a passion for Microsoft Technology Stack.
 
 ![](https://komarev.com/ghpvc/?username=m-saddamhossain&color=blue) ![GitHub followers](https://img.shields.io/github/followers/saddamhossain?label=Followers&style=flat&color=blue)
-  
-[![Portfolio](https://img.shields.io/badge/saddamhossain.net-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139&link=http://saddamhossain.net/)](http://saddamhossain.net/)
-[![Skype](https://img.shields.io/badge/Skype-blue?style=flat&logo=skype&logoColor=white)](skype:rana_cse1?chat) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saddam-hossain-5a872b72/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rana_cse_seu)](https://twitter.com/rana_cse_seu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/beloveprogramming)](https://www.facebook.com/beloveprogramming)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7337589/md-saddam-hossain) 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/saddamhossain) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoXESAFV63kh5ZcMZiK1zkw) 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
@@ -35,12 +26,11 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 ###### Domain
 ![Monolithic](https://img.shields.io/badge/Monolithic-0078D7?style=flat&logo=Monolithic&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-0078D7?style=flat&logo=REST&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=flat&logo=Microservices&logoColor=white)
 
 ###### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ###### Back-End
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -49,29 +39,24 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 
 ###### Database/ORM/Data Access Technology
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D7?style=flat&logo=ado&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-0078D7?style=flat&logo=Dapper&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=flat&logo=LINQ&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-0078D7?style=flat&logo=Lambda&logoColor=white)
 ![Entity Framework Core(Code First, Database First)](https://img.shields.io/badge/Entity_Framework_Core(Code_First,_Database_First)-0078D7?style=flat&logo=efcore&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D7?style=flat&logo=AzureSQL&logoColor=white)
 
 ###### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
 
 ![Blazor](https://img.shields.io/badge/Blazor_(Server_Side_&_Web_Assembly)-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![Blazor Syncfusion](https://img.shields.io/badge/Blazor_Syncfusion-0078D7?style=flat&logo=Blazor&logoColor=white)
+![Radzen](https://img.shields.io/badge/Radzen-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![Blazorstrap](https://img.shields.io/badge/Blazorstrap-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![Blazored](https://img.shields.io/badge/Blazored-0078D7?style=flat&logo=Blazor&logoColor=white)
 
@@ -111,7 +96,6 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 ![Azure Services](https://img.shields.io/badge/Azure_Services-0078D7?style=flat&logo=Azure&logoColor=white)
 
 ###### Testing
-![NUnit](https://img.shields.io/badge/NUnit-0078D7?style=flat&logo=NUnit&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-0078D7?style=flat&logo=xUnit&logoColor=white)
 
 ###### Others
