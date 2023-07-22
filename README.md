@@ -118,8 +118,8 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 
 ### Github Stats
 <p align="left">
-  
-<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/?username=saddamhossain&count_private=true&theme=tokyonight&showicons=true" />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&showicons=true)](https://github.com/saddamhossain/github-readme-stats)
 
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
