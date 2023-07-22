@@ -12,7 +12,7 @@
 -----
 ### About Me
 
-I'm a senior software engineer well-versed in crafting enterprise-grade software solutions utilizing Microsoft technologies. With over 8 years of experience, I have sharpened my technical skills and abilities to deliver high-quality software products that meet my clients' specific needs.
+I'm a senior software engineer well-versed in crafting enterprise-grade software solutions utilizing Microsoft technologies. With over 8 years of experience, I have sharpened my technical skills and abilities to deliver high-quality software products that meet my client's specific needs.
 
 Throughout my professional journey, I have worked on a diverse range of greenfield and brownfield software development projects, in both corporate and freelance environments. This exposure has provided me with a profound understanding of the software development process, empowering me to create efficient, effective, and scalable software products. </p>
 
