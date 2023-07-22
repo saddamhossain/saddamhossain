@@ -121,9 +121,9 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/saddamhossain/github-readme-stats)
 
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&langs_count=6&theme=tokyonight"/>
+<img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&langs_count=6&theme=tokyonight"/>
 
-<img align="left"  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
+<img align="left"  width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   ----
