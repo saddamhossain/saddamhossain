@@ -12,7 +12,6 @@
 -----
 ### About Me
 
-
 I'm a professional full stack developer with expertise in Microsoft technology stack. I've developed a wide breadth of skills and technical abilities over the past 8 years operating as a senior software engineer. Through a mix of corporate and freelance experience, I've learned how to develop and design products in both greenfield and brownfield software development. I've also learned what clients need and expect in terms of communication and professionalism.</p>
 
 - 🔭 I'm currently working on C# | .Net Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
@@ -139,7 +138,7 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
   
 <img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=7&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   ----
 </p>
