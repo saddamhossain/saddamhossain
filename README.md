@@ -119,11 +119,11 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ### Github Stats
 <p align="left">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&show_icons=true)](https://github.com/saddamhossain/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/saddamhossain/github-readme-stats)
 
-<img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
+<img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&langs_count=8&layout=compact&theme=tokyonight" />
+<img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&langs_count=6&layout=compact&theme=tokyonight" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   ----
