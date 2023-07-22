@@ -133,11 +133,11 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 ### Github Stats
 <p align="left">
   
-<img align="left" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=saddamhossain&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
-  
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
-  
-<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/?username=saddamhossain&count_private=true&theme=tokyonight&showicons=true" />
+
+<img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=midnight-purple&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
+
+<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&langs_count=5&layout=compact&theme=tokyonight" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   ----
