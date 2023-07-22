@@ -67,7 +67,7 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
 ![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
 
-###### Azure Cloud
+###### Cloud
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=flat&logo=Azure&logoColor=white)
 ![Azure Active Directory B2C (AAD B2C)](https://img.shields.io/badge/Azure_Active_Directory_B2C_(AAD_B2C)-0078D7?style=flat&logo=Azure&logoColor=white)
