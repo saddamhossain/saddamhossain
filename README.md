@@ -12,24 +12,22 @@
 -----
 ### About Me
 
-I'm a professional full stack developer with expertise in Microsoft technology stack. I've developed a wide breadth of skills and technical abilities over the past 8 years operating as a senior software engineer. Through a mix of corporate and freelance experience, I've learned how to develop and design products in both greenfield and brownfield software development. I've also learned what clients need and expect in terms of communication and professionalism.</p>
+I'm a senior software engineer well-versed in crafting enterprise-grade software solutions utilizing Microsoft technologies. With over 8 years of experience, I have sharpened my technical skills and abilities to deliver high-quality software products that meet my clients' specific needs.
+
+Throughout my professional journey, I have worked on a diverse range of greenfield and brownfield software development projects, in both corporate and freelance environments. This exposure has provided me with a profound understanding of the software development process, empowering me to create efficient, effective, and scalable software products. </p>
 
 - 🔭 I'm currently working on C# | .Net Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
 - 💬 Ask me about  .NET, Blazor, CQRS, RESTful APIs, MSSQL, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
 - 😄 Pronouns: Md. Saddam Hossain
 
-> **Programming is a continuous learning process. The more you practice, the more you learn.**
+> **Programming is a continuous learning process. The more we practice, the more we learn.**
 
 ### Tools and Technologies 
 
-###### Domain
-![Monolithic](https://img.shields.io/badge/Monolithic-0078D7?style=flat&logo=Monolithic&logoColor=white)
-![REST](https://img.shields.io/badge/REST-0078D7?style=flat&logo=REST&logoColor=white)
-
 ###### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E)
 
 ###### Back-End
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -46,25 +44,13 @@ I'm a professional full stack developer with expertise in Microsoft technology s
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D7?style=flat&logo=AzureSQL&logoColor=white)
 
 ###### Front-End
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
-
 ![Blazor](https://img.shields.io/badge/Blazor_(Server_Side_&_Web_Assembly)-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-0078D7?style=flat&logo=Blazor&logoColor=white)
-![Blazor Syncfusion](https://img.shields.io/badge/Blazor_Syncfusion-0078D7?style=flat&logo=Blazor&logoColor=white)
-![Radzen](https://img.shields.io/badge/Radzen-0078D7?style=flat&logo=Blazor&logoColor=white)
-![Blazorstrap](https://img.shields.io/badge/Blazorstrap-0078D7?style=flat&logo=Blazor&logoColor=white)
-![Blazored](https://img.shields.io/badge/Blazored-0078D7?style=flat&logo=Blazor&logoColor=white)
 
 ###### Source Controls
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 ###### Project Management & CI/CD
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
