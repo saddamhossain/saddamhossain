@@ -77,6 +77,9 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
+###### Logging
+![Serilog](https://img.shields.io/badge/Serilog-0078D7?style=flat)
+
 ###### Project Management & CI/CD
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
