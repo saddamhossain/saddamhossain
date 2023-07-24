@@ -97,9 +97,13 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0078D7?style=flat)
 
-###### Project Management & CI/CD
-![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+###### Project Management
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps_Server-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-2088FF?style=flat&logo=github-actions&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0078D7?style=flat)
+![Slack](https://img.shields.io/badge/Slack-0078D7?style=flat)
+![Agile](https://img.shields.io/badge/Agile-0078D7?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-0078D7?style=flat)
 
 ###### Payment Gateway Integration
 ![Stripe](https://img.shields.io/badge/Stripe-0078D7?style=flat&logo=Stripe&logoColor=white)
