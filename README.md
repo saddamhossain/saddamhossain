@@ -116,17 +116,15 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
 ![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
 
-
-
 ###### Testing
 ![xUnit](https://img.shields.io/badge/xUnit-0078D7?style=flat&logo=xUnit&logoColor=white)
+![Bogus](https://img.shields.io/badge/Test_Data_Generators(Bogus)-0078D7?style=flat)
 
 ###### Others
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0078D7?style=flat&logo=Insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Font_Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
@@ -135,7 +133,6 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Jira](	https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET_Core_Identity-0078D7?style=flat&logo=REST&logoColor=white)
 ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-0078D7?style=flat&logo=REST&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-0078D7?style=flat&logo=REST&logoColor=white)
 ![Cookie Based Authentication](https://img.shields.io/badge/Cookie_Based_Authentication-0078D7?style=flat&logo=REST&logoColor=white)
 ![Token Based Authentication(JWT)](https://img.shields.io/badge/Token_Based_Authentication(JWT)-0078D7?style=flat&logo=REST&logoColor=white)
 ![Policy-Based authorization](https://img.shields.io/badge/Policy_Based_Authorization-0078D7?style=flat&logo=REST&logoColor=white)
@@ -145,11 +142,13 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![IdentityServer](https://img.shields.io/badge/IdentityServer-0078D7?style=flat&logo=REST&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-0078D7?style=flat&logo=REST&logoColor=white)
 ![Windows Scheduler](https://img.shields.io/badge/Windows_Scheduler-0078D7?style=flat&logo=REST&logoColor=white)
-![NLog](https://img.shields.io/badge/NLog-0078D7?style=flat&logo=REST&logoColor=white)
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-0078D7?style=flat&logo=REST&logoColor=white)
 ![Data Annotation](https://img.shields.io/badge/Data_Annotation-0078D7?style=flat&logo=REST&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=REST&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-0078D7?style=flat&logo=REST&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-0078D7?style=flat)
+![MailKit](https://img.shields.io/badge/MailKit-0078D7?style=flat)
+![MimeKit](https://img.shields.io/badge/MimeKit-0078D7?style=flat)
+![Custom SMTP](https://img.shields.io/badge/Custom_SMTP-0078D7?style=flat&logo=REST&logoColor=white)
 ![FTP](https://img.shields.io/badge/FTP-0078D7?style=flat&logo=REST&logoColor=white)
 ![Plesk](https://img.shields.io/badge/Plesk-0078D7?style=flat&logo=REST&logoColor=white)
 ![SmarterASP](https://img.shields.io/badge/SmarterASP-0078D7?style=flat&logo=REST&logoColor=white)
