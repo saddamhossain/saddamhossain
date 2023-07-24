@@ -22,7 +22,7 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
-### Tools and Technologies 
+### My passion is here:
 
 ###### Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -60,12 +60,6 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Stripe](https://img.shields.io/badge/Stripe-0078D7?style=flat&logo=Stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-0078D7?style=flat&logo=PayPal&logoColor=white)
 ![Braintree](https://img.shields.io/badge/Braintree-0078D7?style=flat&logo=Braintree&logoColor=white)
-
-###### Reporting Tools / Data Visualization
-![HTML Report](https://img.shields.io/badge/HTML_Report-0078D7?style=flat&logo=HTML_Report&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=flat&logo=SSRS&logoColor=white)
-![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
-![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
 
 ###### Cloud
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
