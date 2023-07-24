@@ -18,7 +18,6 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 
 - 🔭 I'm currently working on C# | .Net Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
 - 💬 Ask me about  .NET, Blazor, CQRS, RESTful APIs, MSSQL, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
-- 😄 Pronouns: Md. Saddam Hossain
 
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
