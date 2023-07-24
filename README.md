@@ -80,6 +80,23 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ###### Logging
 ![Serilog](https://img.shields.io/badge/Serilog-0078D7?style=flat)
 
+###### Cloud
+![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure Active Directory B2C (AAD B2C)](https://img.shields.io/badge/Azure_Active_Directory_B2C_(AAD_B2C)-0078D7?style=flat&logo=Azure&logoColor=white)
+![App Service](https://img.shields.io/badge/App_Service-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure_Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white)
+![Azure Hosting](https://img.shields.io/badge/Azure_Hosting-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure Web App](https://img.shields.io/badge/Azure_Web_App-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure API Management](https://img.shields.io/badge/Azure_API_Management-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure blob storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D7?style=flat&logo=Azure&logoColor=white)
+![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-0078D7?style=flat&logo=Azure&logoColor=white)
+![Azure Services](https://img.shields.io/badge/Azure_Services-0078D7?style=flat&logo=Azure&logoColor=white)
+
+###### Continious Integration & Deployment
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0078D7?style=flat)
+
 ###### Project Management & CI/CD
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -95,18 +112,7 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
 ![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
 
-###### Cloud
-![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure Active Directory B2C (AAD B2C)](https://img.shields.io/badge/Azure_Active_Directory_B2C_(AAD_B2C)-0078D7?style=flat&logo=Azure&logoColor=white)
-![App Service](https://img.shields.io/badge/App_Service-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure_Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white)
-![Azure Hosting](https://img.shields.io/badge/Azure_Hosting-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure Web App](https://img.shields.io/badge/Azure_Web_App-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure API Management](https://img.shields.io/badge/Azure_API_Management-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure blob storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D7?style=flat&logo=Azure&logoColor=white)
-![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-0078D7?style=flat&logo=Azure&logoColor=white)
-![Azure Services](https://img.shields.io/badge/Azure_Services-0078D7?style=flat&logo=Azure&logoColor=white)
+
 
 ###### Testing
 ![xUnit](https://img.shields.io/badge/xUnit-0078D7?style=flat&logo=xUnit&logoColor=white)
