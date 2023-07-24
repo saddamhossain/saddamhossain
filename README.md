@@ -67,7 +67,7 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Blazor](https://img.shields.io/badge/Blazor_(Server_Side_&_Web_Assembly)-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-0078D7?style=flat&logo=Blazor&logoColor=white)
 
-###### Source Controls
+###### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
