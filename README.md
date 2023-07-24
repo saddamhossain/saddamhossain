@@ -61,6 +61,12 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![PayPal](https://img.shields.io/badge/PayPal-0078D7?style=flat&logo=PayPal&logoColor=white)
 ![Braintree](https://img.shields.io/badge/Braintree-0078D7?style=flat&logo=Braintree&logoColor=white)
 
+###### Reporting Tools / Data Visualization
+![HTML Report](https://img.shields.io/badge/HTML_Report-0078D7?style=flat&logo=HTML_Report&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=flat&logo=SSRS&logoColor=white)
+![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
+![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
+
 ###### Cloud
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure Active Directory(AAD)](https://img.shields.io/badge/Azure_Active_Directory_(AAD)-0078D7?style=flat&logo=Azure&logoColor=white)
