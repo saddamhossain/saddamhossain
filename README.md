@@ -17,7 +17,7 @@ I'm a senior software engineer well-versed in crafting enterprise-grade software
 Throughout my professional journey, I have worked on a diverse range of greenfield and brownfield software development projects, in both corporate and freelance environments. This exposure has provided me with a profound understanding of the software development process, empowering me to create efficient, effective, and scalable software products. </p>
 
 - 🔭 I'm currently working on C# | .Net Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 Ask me about  .NET, Blazor, CQRS, RESTful APIs, MSSQL, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- 💬 Ask me about  .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
 - 👯  I’m always open to meaningful collaborations and contributing.
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
