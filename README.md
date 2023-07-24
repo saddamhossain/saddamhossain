@@ -48,11 +48,6 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![KISS](https://img.shields.io/badge/KISS-0078D7?style=flat)
 ![SOLID](https://img.shields.io/badge/SOLID-0078D7?style=flat)
 
-###### Back-End
-![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D7?style=flat&logo=core&logoColor=white)
-![API](https://img.shields.io/badge/ASP.NET_Core_Web_API-0078D7?style=flat&logo=api&logoColor=white)
-
 ###### Database/ORM/Data Access Technology
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -61,6 +56,11 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=flat&logo=LINQ&logoColor=white)
 ![Entity Framework Core(Code First, Database First)](https://img.shields.io/badge/Entity_Framework_Core(Code_First,_Database_First)-0078D7?style=flat&logo=efcore&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D7?style=flat&logo=AzureSQL&logoColor=white)
+
+###### Back-End
+![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D7?style=flat&logo=core&logoColor=white)
+![API](https://img.shields.io/badge/ASP.NET_Core_Web_API-0078D7?style=flat&logo=api&logoColor=white)
 
 ###### Front-End
 ![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
