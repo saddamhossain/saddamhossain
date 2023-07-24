@@ -35,6 +35,13 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-0078D7?style=flat)
 ![Modular Monolithic Architecture](https://img.shields.io/badge/Modular_Monolithic_Architecture-0078D7?style=flat)
 ![N-Layer Architecture](https://img.shields.io/badge/N-Layer_Architecture-0078D7?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D7?style=flat)
+![Vertical Slice Architecture](https://img.shields.io/badge/Vertical_Slice_Architecture-0078D7?style=flat)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0078D7?style=flat)
+![Unit of Work Pattern](https://img.shields.io/badge/Unit_of_Work_Pattern-0078D7?style=flat)
+![CQRS Pattern](https://img.shields.io/badge/CQRS_Pattern-0078D7?style=flat)
+![Mediator Pattern](https://img.shields.io/badge/Mediator_Pattern-0078D7?style=flat)
+![Options Pattern](https://img.shields.io/badge/Options_Pattern-0078D7?style=flat)
 
 ###### Back-End
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
