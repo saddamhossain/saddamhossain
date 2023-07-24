@@ -30,6 +30,12 @@ Throughout my professional journey, I have worked on a diverse range of greenfie
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E)
 
+###### Architecture / Design Patterns / Design Principles
+![REST](https://img.shields.io/badge/REST-0078D7?style=flat)
+![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-0078D7?style=flat)
+![Modular Monolithic Architecture](https://img.shields.io/badge/Modular_Monolithic_Architecture-0078D7?style=flat)
+![N-Layer Architecture](https://img.shields.io/badge/N-Layer_Architecture-0078D7?style=flat)
+
 ###### Back-End
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D7?style=flat&logo=core&logoColor=white)
