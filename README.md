@@ -6,7 +6,22 @@
 -----
 ### About Me
 
-I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 8 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions. </p>
+<p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 8 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
+
+ I specialize in various areas, including, but not limited to:
+
+- Designing scalable applications in .NET.
+- Confidently shipping well-architected, production-ready apps using N-Layer Architecture and Clean Architecture.
+- Utilizing best practices to design a Rich Domain Model with Domain-Driven Design (DDD), with a particular focus on the most important DDD tactical patterns.
+- Applying OOP principles such as SOLID, DRY, KISS, and YAGNI.
+- Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, and Mediator Pattern to effectively address cross-cutting concerns.
+- Applying best practices to EF Core and achieving incredible query performance with Dapper.
+- Building Progressive Web Applications (PWAs) using Blazor WebAssembly.
+- Creating Blazor Server-Side Applications.
+- Skillfully implementing Structured Logging through Serilog.
+- Ensuring code quality and reliability through comprehensive testing using xUnit.
+- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.
+#
 
 - 🔭 I'm currently working on C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
 - 💬 Ask me about  .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
