@@ -23,8 +23,8 @@
 - Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.**
   
 ### What I do?
-- 🔭 Write C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 Ask me about .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- 🔭 **Write** C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
+- 💬 **Ask me about** .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
 - 👯  I’m always open to meaningful collaborations and contributing.
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
