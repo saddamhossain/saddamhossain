@@ -8,7 +8,7 @@
 
 <p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 8 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
 
- I specialize in various areas, including, but not limited to:
+ **I specialize in various areas, including, but not limited to:**
 
 - Designing scalable applications in .NET.
 - Confidently shipping well-architected, production-ready apps using N-Layer Architecture and Clean Architecture.
@@ -20,11 +20,11 @@
 - Creating Blazor Server-Side Applications.
 - Skillfully implementing Structured Logging through Serilog.
 - Ensuring code quality and reliability through comprehensive testing using xUnit.
-- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.
-#
-
-- 🔭 I'm currently working on C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 Ask me about  .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.**
+  
+# What I do?
+- 🔭 Write C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
+- 💬 Ask me about .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
 - 👯  I’m always open to meaningful collaborations and contributing.
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
