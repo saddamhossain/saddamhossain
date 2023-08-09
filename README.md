@@ -6,9 +6,7 @@
 -----
 ### About Me
 
-I'm a senior software engineer well-versed in crafting enterprise-grade software solutions utilizing Microsoft technologies. With over 8 years of experience, I have sharpened my technical skills and abilities to deliver high-quality software products that meet my client's specific needs.
-
-Throughout my professional journey, I have worked on a diverse range of greenfield and brownfield software development projects, in both corporate and freelance environments. This exposure has provided me with a profound understanding of the software development process, empowering me to create efficient, effective, and scalable software products. </p>
+I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 8 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions. </p>
 
 - 🔭 I'm currently working on C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
 - 💬 Ask me about  .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
