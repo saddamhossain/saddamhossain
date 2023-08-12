@@ -10,22 +10,22 @@
 
  **I specialize in various areas, including, but not limited to:**
 
-- Designing scalable applications in .NET.
+- Designing scalable applications in C# .NET
 - Confidently shipping well-architected, production-ready apps using N-Layer Architecture and Clean Architecture.
 - Utilizing best practices to design a Rich Domain Model with Domain-Driven Design (DDD), with a particular focus on the most important DDD tactical patterns.
 - Applying OOP principles such as SOLID, DRY, KISS, and YAGNI.
-- Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, and Mediator Pattern to effectively address cross-cutting concerns.
+- Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, Mediator Pattern, and Options Pattern to effectively address cross-cutting concerns.
 - Applying best practices to EF Core and achieving incredible query performance with Dapper.
-- Building Progressive Web Applications (PWAs) using Blazor WebAssembly.
-- Creating Blazor Server-Side Applications.
+- Developing Interactive and Rich Client-Side Applications Using Blazor.
+- Developing .NET MAUI Blazor Hybrid applications.
 - Skillfully implementing Structured Logging through Serilog.
 - Ensuring code quality and reliability through comprehensive testing using xUnit.
 - Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.**
   
 ### What I do?
-- 🔭 **Write** C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 **Ask me about** .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
-- 👯  I’m always open to meaningful collaborations and contributing.
+- 🔭 **Writing:** C# | ASP.NET Core | .NET 6.0, 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
+- 💬 **Ask Me About:** .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- 👯 **Collaboration:** I'm enthusiastic about meaningful collaborations and contributions. If you have an interesting project in mind or require assistance with your ongoing efforts, don't hesitate to contact me. Let's work together to achieve our goals..
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
