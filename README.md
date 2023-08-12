@@ -41,8 +41,6 @@
 ###### Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E)
 
 ###### Architecture / Design Patterns / Design Principles
 ![REST](https://img.shields.io/badge/REST-0078D7?style=flat)
