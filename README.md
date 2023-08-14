@@ -111,6 +111,12 @@
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0078D7?style=flat)
 
+###### Background Tasks / Jobs Scheduling
+![Hosted Service](https://img.shields.io/badge/Hosted_Service-0078D7?style=flat)
+![BackgroundService](https://img.shields.io/badge/BackgroundService-0078D7?style=flat)
+![Hangfire](https://img.shields.io/badge/Hangfire-0078D7?style=flat)
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-0078D7?style=flat)
+
 ###### Project Management
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps_Server-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-2088FF?style=flat&logo=github-actions&logoColor=white)
