@@ -55,6 +55,7 @@
 ![CQRS Pattern](https://img.shields.io/badge/CQRS_Pattern-0078D7?style=flat)
 ![Mediator Pattern](https://img.shields.io/badge/Mediator_Pattern-0078D7?style=flat)
 ![Options Pattern](https://img.shields.io/badge/Options_Pattern-0078D7?style=flat)
+![DDD](https://img.shields.io/badge/DDD_(Domain_Driven_Design)-0078D7?style=flat)
 ![OOP](https://img.shields.io/badge/OOP-0078D7?style=flat)
 ![DRY](https://img.shields.io/badge/DRY-0078D7?style=flat)
 ![YAGNI](https://img.shields.io/badge/YAGNI-0078D7?style=flat)
