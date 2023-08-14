@@ -64,7 +64,6 @@
 
 ###### Database/ORM/Data Access Technology
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-0078D7?style=flat&logo=ado&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-0078D7?style=flat&logo=Dapper&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=flat&logo=LINQ&logoColor=white)
@@ -159,6 +158,10 @@
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-0078D7?style=flat&logo=REST&logoColor=white)
 ![Data Annotation](https://img.shields.io/badge/Data_Annotation-0078D7?style=flat&logo=REST&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=REST&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Crystal_Report-0078D7?style=flat&logo=REST&logoColor=white)
+![RDLC](https://img.shields.io/badge/RDLC_Report-0078D7?style=flat&logo=REST&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-0078D7?style=flat&logo=REST&logoColor=white)
+![Treblle](https://img.shields.io/badge/Treblle-0078D7?style=flat&logo=REST&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-0078D7?style=flat)
 ![MailKit](https://img.shields.io/badge/MailKit-0078D7?style=flat)
 ![MimeKit](https://img.shields.io/badge/MimeKit-0078D7?style=flat)
