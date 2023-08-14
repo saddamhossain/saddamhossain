@@ -78,7 +78,7 @@
 
 ###### Front-End
 ![Razor](https://img.shields.io/badge/Razor-0078D7?style=flat&logo=Razor&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor_(Server_Side_&_Web_Assembly)-0078D7?style=flat&logo=Blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-0078D7?style=flat&logo=Blazor&logoColor=white)
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-0078D7?style=flat&logo=Blazor&logoColor=white)
 
 ###### API Documentation & API SDK Libraries
