@@ -1,6 +1,10 @@
 ## Hi there, I'm Md. Saddam Hossain 👋
 #### <p align="left">Senior Software Engineer with a Passion for the Microsoft Technology Stack.
 
+ <a href="https://twitter.com/rana_cse_seu" alt="Saddam Hossain's twitter" target="_blank">
+   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+ </a>
+ 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=#FF7139)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saddamhossain) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
