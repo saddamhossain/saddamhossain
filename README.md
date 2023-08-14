@@ -162,6 +162,7 @@
 ![SendGrid](https://img.shields.io/badge/SendGrid-0078D7?style=flat)
 ![MailKit](https://img.shields.io/badge/MailKit-0078D7?style=flat)
 ![MimeKit](https://img.shields.io/badge/MimeKit-0078D7?style=flat)
+![Caching](https://img.shields.io/badge/Caching-0078D7?style=flat)
 ![Custom SMTP](https://img.shields.io/badge/Custom_SMTP-0078D7?style=flat&logo=REST&logoColor=white)
 ![FTP](https://img.shields.io/badge/FTP-0078D7?style=flat&logo=REST&logoColor=white)
 ![Plesk](https://img.shields.io/badge/Plesk-0078D7?style=flat&logo=REST&logoColor=white)
