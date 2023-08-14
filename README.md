@@ -24,7 +24,7 @@
   
 ### What I do?
 - 🔭 **Writing:** C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 **Ask Me About:** .NET, RESTful APIs, MSSQL, Blazor, MudBlazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- 💬 **Ask Me About:** .NET, RESTful APIs, MSSQL, Blazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
 - 👯 **Collaboration:** I'm enthusiastic about meaningful collaborations and contributions. If you have an interesting project in mind or require assistance with your ongoing efforts, don't hesitate to contact me. Let's work together to achieve our goals..
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
