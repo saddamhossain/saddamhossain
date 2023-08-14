@@ -6,6 +6,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_cse_seu) 
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saddamhossaindotnet/) 
+<a>
+   <img src="https://komarev.com/ghpvc/?username=saddamhossain&color=ff69b4&style=for-the-badge" />
+</a>
 ![](https://komarev.com/ghpvc/?username=m-saddamhossain&color=blue) 
 ![GitHub followers](https://img.shields.io/github/followers/saddamhossain?label=Followers&style=flat&color=blue)
 
