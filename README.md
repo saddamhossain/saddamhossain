@@ -124,12 +124,6 @@
 ![PayPal](https://img.shields.io/badge/PayPal-0078D7?style=flat&logo=PayPal&logoColor=white)
 ![Braintree](https://img.shields.io/badge/Braintree-0078D7?style=flat&logo=Braintree&logoColor=white)
 
-###### Reporting Tools / Data Visualization
-![HTML Report](https://img.shields.io/badge/HTML_Report-0078D7?style=flat&logo=HTML_Report&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-0078D7?style=flat&logo=SSRS&logoColor=white)
-![Microsoft Report(.rdlc)](https://img.shields.io/badge/Microsoft_Report(.rdlc)-0078D7?style=flat&logo=Microsoft_Report(.rdlc)&logoColor=white)
-![Crystal Report](https://img.shields.io/badge/Crystal_Report-0078D7?style=flat&logo=Crystal_Report&logoColor=white)
-
 ###### Testing
 ![xUnit](https://img.shields.io/badge/xUnit-0078D7?style=flat&logo=xUnit&logoColor=white)
 ![Bogus](https://img.shields.io/badge/Test_Data_Generators(Bogus)-0078D7?style=flat)
