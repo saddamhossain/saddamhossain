@@ -37,7 +37,7 @@
 ### Tools & Technologies
 -----
 
-###### Languages
+###### Language
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
 
