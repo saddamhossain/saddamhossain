@@ -41,7 +41,7 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&labelColor=black&logo=MySQL&logoColor=4479A1) 
 
-###### Architecture / Design Patterns / Design Principles
+###### Architectural Patterns / Design Patterns / Design Principles
 ![REST](https://img.shields.io/badge/REST-0078D7?style=flat)
 ![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-0078D7?style=flat)
 ![Modular Monolithic Architecture](https://img.shields.io/badge/Modular_Monolithic_Architecture-0078D7?style=flat)
