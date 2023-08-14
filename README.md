@@ -156,8 +156,6 @@
 ![Structurizr DSL](https://img.shields.io/badge/Structurizr_DSL-0078D7?style=flat)
 ![Polly](https://img.shields.io/badge/Polly-0078D7?style=flat)
 ![Health Checks](https://img.shields.io/badge/Health_Checks-0078D7?style=flat)
-![Hangfire](https://img.shields.io/badge/Hangfire-0078D7?style=flat)
-![Quartz.NET](https://img.shields.io/badge/Quartz.NET-0078D7?style=flat)
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-0078D7?style=flat&logo=REST&logoColor=white)
 ![Data Annotation](https://img.shields.io/badge/Data_Annotation-0078D7?style=flat&logo=REST&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=REST&logoColor=white)
