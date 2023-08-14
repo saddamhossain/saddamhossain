@@ -26,7 +26,7 @@
 - Developing .NET MAUI Blazor Hybrid applications.
 - Skillfully implementing Structured Logging through Serilog.
 - Ensuring code quality and reliability through comprehensive testing using xUnit.
-- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.**
+- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.
   
 ### What I do?
 - 🔭 **Writing:** C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
