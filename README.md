@@ -1,16 +1,13 @@
 ## Hi there, I'm Md. Saddam Hossain 👋
 #### <p align="left">Senior Software Engineer with a Passion for the Microsoft Technology Stack.
 
- <a href="https://twitter.com/rana_cse_seu" alt="Saddam Hossain's twitter" target="_blank">
-   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
- </a>
- 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=#FF7139)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saddamhossain) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_cse_seu) 
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saddamhossaindotnet/) 
-![](https://komarev.com/ghpvc/?username=m-saddamhossain&color=blue) ![GitHub followers](https://img.shields.io/github/followers/saddamhossain?label=Followers&style=flat&color=blue)
+![](https://komarev.com/ghpvc/?username=m-saddamhossain&color=blue) 
+![GitHub followers](https://img.shields.io/github/followers/saddamhossain?label=Followers&style=flat&color=blue)
 
 -----
 ### About Me
@@ -39,6 +36,7 @@
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
 ### Tools & Technologies
+-----
 
 ###### Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -170,10 +168,9 @@
 ![SmarterASP](https://img.shields.io/badge/SmarterASP-0078D7?style=flat&logo=REST&logoColor=white)
 
 ### Github Stats
+-----
 <p align="left">
 
-
-  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&theme=tokyonight&show_icons=true"/>
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
