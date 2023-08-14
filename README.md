@@ -49,6 +49,7 @@
 ![N-Layer Architecture](https://img.shields.io/badge/N-Layer_Architecture-0078D7?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D7?style=flat)
 ![Vertical Slice Architecture](https://img.shields.io/badge/Vertical_Slice_Architecture-0078D7?style=flat)
+![Singleton Pattern](https://img.shields.io/badge/Singleton_Pattern-0078D7?style=flat)
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-0078D7?style=flat)
 ![Unit of Work Pattern](https://img.shields.io/badge/Unit_of_Work_Pattern-0078D7?style=flat)
 ![CQRS Pattern](https://img.shields.io/badge/CQRS_Pattern-0078D7?style=flat)
