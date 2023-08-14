@@ -86,7 +86,7 @@
 ![RestSharp](https://img.shields.io/badge/RestSharp-0078D7?style=flat)
 ![HttpClientFactory](https://img.shields.io/badge/HttpClientFactory-0078D7?style=flat)
 
-###### Version Control
+###### Source Controls
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
