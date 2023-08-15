@@ -44,6 +44,7 @@
 ###### Architectural Patterns / Design Patterns / Design Principles
 ![REST](https://img.shields.io/badge/REST-0078D7?style=flat)
 ![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-0078D7?style=flat)
+![Modular Monolithic Architecture](https://img.shields.io/badge/Modular_Monolithic_Architecture-0078D7?style=flat)
 ![MVC](https://img.shields.io/badge/MVC_Architecture-0078D7?style=flat)
 ![N-Layer Architecture](https://img.shields.io/badge/N-Layer_Architecture-0078D7?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D7?style=flat)
