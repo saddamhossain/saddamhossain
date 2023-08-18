@@ -2,7 +2,6 @@
 #### <p align="left">Senior Software Engineer with a Passion for the Microsoft Technology Stack.
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.saddamhossain.net) 
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saddamhossain) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_cse_seu) 
 <img src="https://komarev.com/ghpvc/?username=m-saddamhossain&color=ff69b4&style=for-the-badge" />
