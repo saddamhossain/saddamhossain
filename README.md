@@ -172,7 +172,7 @@
 -----
 <p align="left">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&theme=tokyonight&show_icons=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=saddamhossain&count_private=true&show_icons=true&theme=tokyonight"/>
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
