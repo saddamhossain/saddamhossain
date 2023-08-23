@@ -176,9 +176,11 @@
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&fire=yellow&currStreakLabel=red&currStreakNum=red&hide_border=true"/>
 
-<img width = "400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saddamhossain&hide=html,css,shell,batchfile,dockerfile,powershell&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="825" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight"/>
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight) 
+
+<img width = "400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saddamhossain&hide=shell,batchfile,dockerfile,powershell&layout=compact&langs_count=8&theme=tokyonight"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saddamhossain&row=1&column=8&theme=highcontrast&no-bg=false&no-frame=true)](https://github.com/saddamhossain/github-profile-trophy)
   ----
