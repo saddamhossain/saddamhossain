@@ -15,6 +15,8 @@
 
 <p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 8 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
 
+Currently, **I'm open to work and employment opportunities**.
+
  **I specialize in various areas, including, but not limited to:**
 
 - Designing scalable applications in C# .NET
@@ -32,7 +34,9 @@
 ### What I do?
 - 🔭 **Writing:** C# | ASP.NET Core | .NET 7.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
 - 💬 **Ask Me About:** .NET, RESTful APIs, MSSQL, Blazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 **Collaboration:** I'm enthusiastic about meaningful collaborations and contributions. If you have an interesting project in mind or require assistance with your ongoing efforts, don't hesitate to contact me. Let's work together to achieve our goals.
+- 👯 I'm currently open for work and employment opportunities (remote and relocation)
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
