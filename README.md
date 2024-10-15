@@ -21,7 +21,6 @@ Currently, **I'm open to work and employment opportunities**.
 
 - Designing scalable applications in C# .NET
 - Confidently shipping well-architected, production-ready apps using N-Layer Architecture and Clean Architecture. While Clean Architecture remains very pure and adheres strictly to its principles, I always tend to take a pragmatic approach towards it.
-- Utilizing best practices to design a Rich Domain Model with Domain-Driven Design (DDD), with a particular focus on the most important DDD tactical patterns.
 - Applying OOP principles such as SOLID, DRY, KISS, and YAGNI.
 - Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, Mediator Pattern, and Options Pattern to effectively address cross-cutting concerns.
 - Applying best practices to EF Core and achieving incredible query performance with Dapper.
