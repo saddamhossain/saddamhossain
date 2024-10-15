@@ -25,7 +25,6 @@ Currently, **I'm open to work and employment opportunities**.
 - Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, Mediator Pattern, and Options Pattern to effectively address cross-cutting concerns.
 - Applying best practices to EF Core and achieving incredible query performance with Dapper.
 - Developing Interactive, Rich Client-Side, and Progressive Web Applications Using Blazor.
-- Developing .NET MAUI Blazor Hybrid applications.
 - Skillfully implementing Structured Logging through Serilog.
 - Ensuring code quality and reliability through comprehensive testing using xUnit.
 - Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.
