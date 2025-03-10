@@ -1,5 +1,5 @@
 ## Hi there! I'm Md. Saddam Hossain 👋
-#### <p align="left">Senior Software Engineer with a Passion for the Microsoft Technology Stack.
+#### <p align="left">Senior Full Stack Developer | Backend Systems & AI Specialist
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
@@ -11,30 +11,24 @@
 <a href="https://www.buymeacoffee.com/saddamhossaindotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 -----
-### About Me
+I am a Senior Software Engineer with over 10 years of experience architecting enterprise-grade software solutions using C# .NET and ASP.NET Core. I specialize in designing scalable, high-performance systems with N-Layer and Clean Architecture methodologies, adhering to OOP principles (SOLID, DRY, KISS, YAGNI) and employing design patterns such as Repository, Unit of Work, CQRS, and Mediator. My expertise includes optimizing data persistence with Entity Framework Core and Dapper, building advanced web applications with Blazor (including Blazor Hybrid/MAUI), and ensuring quality through Serilog logging, xUnit testing, and CI/CD pipelines via Azure DevOps and GitHub Actions.
 
-<p>I am a senior software engineer skilled in developing enterprise-grade software solutions using Microsoft technologies. With nearly a decade of experience, I specialize in delivering high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.</p>
+Additionally, I am an accomplished AI developer, proficient in crafting Generative AI solutions, including custom agents, Retrieval-Augmented Generation (RAG) systems, and chatbots. Leveraging tools like OpenAI, LangChain, CrewAI, Botpress, n8n, and vector databases (FAISS, ChromaDB, Pinecone), I deliver AI-driven SaaS platforms and automation workflows that drive operational excellence.
 
-Currently, **I'm open to work and employment opportunities**.
+## Expertise
 
- **I specialize in various areas, including, but not limited to:**
+- **Technologies**: C# | .NET 8.0 | ASP.NET Core | Blazor | MSSQL | Azure | Web APIs | EF Core | Dapper
+- **Architecture**: Clean Architecture | N-Layer | CQRS | Design Patterns | Unit & Integration Testing
+- **AI & Automation**: Generative AI | LangChain | CrewAI | OpenAI | RAG | Vector Databases | n8n
 
-- Designing scalable applications in C# .NET
-- Confidently shipping well-architected, production-ready apps using N-Layer Architecture and Clean Architecture. While Clean Architecture remains very pure and adheres strictly to its principles, I always tend to take a pragmatic approach towards it.
-- Applying OOP principles such as SOLID, DRY, KISS, and YAGNI.
-- Implementing design patterns like the Repository Pattern, Unit of Work Pattern, CQRS Pattern, Mediator Pattern, and Options Pattern to effectively address cross-cutting concerns.
-- Applying best practices to EF Core and achieving incredible query performance with Dapper.
-- Developing Interactive, Rich Client-Side, and Progressive Web Applications Using Blazor.
-- Skillfully implementing Structured Logging through Serilog.
-- Ensuring code quality and reliability through comprehensive testing using xUnit.
-- Proficiently managing deployments through Azure DevOps CI/CD and GitHub Actions.
-  
-### What I do?
-- 🔭 **Writing:** C# | ASP.NET Core | .NET 8.0 | Web API | Blazor | Clean Architecture | CQRS | MSSQL | Azure | Unit & Integration Tests
-- 💬 **Ask Me About:** .NET, RESTful APIs, MSSQL, Blazor, CQRS, Software Architecture, Design Patterns, Testing, Azure, CI/CD.
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 **Collaboration:** I'm enthusiastic about meaningful collaborations and contributions. If you have an interesting project in mind or require assistance with your ongoing efforts, don't hesitate to contact me. Let's work together to achieve our goals.
-- 👯 I'm currently open for work and employment opportunities (remote and relocation)
+## Professional Status
+
+- **Availability**: Open to remote or relocation-based opportunities as of March 10, 2025.
+- **Collaboration**: Seeking impactful projects and strategic partnerships.
+
+## Contact
+
+For inquiries on .NET development, software architecture, AI integration, or CI/CD, connect with me via LinkedIn. I am eager to contribute technical leadership and innovative solutions to your initiatives.
   
 > **Programming is a continuous learning process. The more we practice, the more we learn.**
 
