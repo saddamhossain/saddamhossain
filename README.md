@@ -17,7 +17,7 @@ Additionally, I am an accomplished AI developer, proficient in crafting Generati
 
 ## Expertise
 
-- **Technologies**: C# | .NET 8.0 | ASP.NET Core | Blazor | MSSQL | Azure | Web APIs | EF Core | Dapper
+- **Technologies**: C# | .NET 9.0 | ASP.NET Core | Blazor | MSSQL | Azure | Web APIs | EF Core | Dapper
 - **Architecture**: Clean Architecture | N-Layer | CQRS | Design Patterns | Unit & Integration Testing
 - **AI & Automation**: Generative AI | LangChain | CrewAI | OpenAI | RAG | Vector Databases | n8n
 
