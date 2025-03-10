@@ -1,5 +1,5 @@
 ## Hi there! I'm Md. Saddam Hossain 👋
-#### <p align="left">Senior Full Stack Developer | Backend Systems & AI Specialist
+#### <p align="left">Senior Software Engineer and Generative AI Specialist
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
