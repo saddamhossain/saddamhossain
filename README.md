@@ -13,7 +13,7 @@
 -----
 I am a Senior Software Engineer with over 10 years of experience architecting enterprise-grade software solutions using C# .NET and ASP.NET Core. I specialize in designing scalable, high-performance systems with N-Layer and Clean Architecture methodologies, adhering to OOP principles (SOLID, DRY, KISS, YAGNI) and employing design patterns such as Repository, Unit of Work, CQRS, and Mediator. My expertise includes optimizing data persistence with Entity Framework Core and Dapper, building advanced web applications with Blazor (including Blazor Hybrid/MAUI), and ensuring quality through Serilog logging, xUnit testing, and CI/CD pipelines via Azure DevOps and GitHub Actions.
 
-Additionally, I am an accomplished AI developer, proficient in crafting Generative AI solutions, including custom agents, Retrieval-Augmented Generation (RAG) systems, and chatbots. Leveraging tools like OpenAI, LangChain, CrewAI, Botpress, n8n, and vector databases (FAISS, ChromaDB, Pinecone), I deliver AI-driven SaaS platforms and automation workflows that drive operational excellence.
+I am an accomplished AI developer, proficient in crafting Generative AI solutions, including custom agents, Retrieval-Augmented Generation (RAG) systems, and chatbots. Leveraging tools like OpenAI, LangChain, CrewAI, Botpress, n8n, and vector databases (FAISS, ChromaDB, Pinecone), I deliver AI-driven SaaS platforms and automation workflows that drive operational excellence.
 
 ## Expertise
 
