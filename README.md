@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_cse_seu) 
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saddam_h_dotnet) 
 <img src="https://komarev.com/ghpvc/?username=m-saddamhossain&color=ff69b4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/saddamhossain?label=Followers&style=for-the-badge&color=blue" />
 [![Patreon URL](https://img.shields.io/static/v1?color=blue&label=Patreon&logo=Patreon&logoColor=white&style=for-the-badge&message=Become-Patreon)](https://www.patreon.com/saddamhossaindotnet)
