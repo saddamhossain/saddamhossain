@@ -11,19 +11,30 @@
 <a href="https://www.buymeacoffee.com/saddamhossaindotnet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 -----
-I am a Senior Software Engineer with over 10 years of experience architecting enterprise-grade software solutions using C# .NET and ASP.NET Core. I specialize in designing scalable, high-performance systems with N-Layer and Clean Architecture methodologies, adhering to OOP principles (SOLID, DRY, KISS, YAGNI) and employing design patterns such as Domain-Driven Design (DDD), Repository, Unit of Work, CQRS, and Mediator. My expertise includes optimizing data persistence with Entity Framework Core and Dapper, building advanced web applications with Blazor (including Blazor Hybrid/MAUI), and ensuring quality through Serilog logging, xUnit testing, and CI/CD pipelines via Azure DevOps and GitHub Actions.
+With a decade of professional experience, I am a Software Engineer committed to delivering sophisticated, scalable solutions that address complex technical and business challenges. My expertise spans Microsoft .NET technologies and Generative AI applications, enabling me to design systems that are robust, innovative, and aligned with client goals. Having contributed to both corporate and freelance projects, I bring a disciplined, quality-focused approach to every engagement.
 
-I am an accomplished AI developer, proficient in crafting Generative AI solutions, including custom agents, Retrieval-Augmented Generation (RAG) systems, and chatbots. Leveraging tools like OpenAI, LangChain, CrewAI, Botpress, n8n, and vector databases (FAISS, ChromaDB, Pinecone), I deliver AI-driven SaaS platforms and automation workflows that drive operational excellence.
+## Core Competencies
+
+## .NET Architecture & Full-Stack Development:
+
+I craft high-performance applications using C#, ASP.NET Core, and Blazor. My work adheres to Clean Architecture, N-Layer, and Vertical Slice Architecture incorporating OOP standards (SOLID, DRY, KISS, YAGNI) and patterns such as Domain-Driven Design (DDD), Repository, Unit of Work, CQRS, and Mediator. I optimize data management with Entity Framework Core, Dapper, and SQL Server for enterprise-grade efficiency.
+
+## Generative AI & Automation:
+
+I design cutting-edge AI agents, Retrieval-Augmented Generation (RAG) systems, and intelligent chatbots using OpenAI, LangChain, CrewAI, Botpress, and n8n. With Python, Streamlit, and vector databases (FAISS, ChromaDB, Pinecone), I build AI-driven applications, multi-agent workflows, and tailored automation solutions.
+
+## DevOps & Quality Standards:
+
+I ensure operational excellence with structured logging (Serilog), unit testing (xUnit), and CI/CD pipelines via Azure DevOps and GitHub Actions. My Microsoft Azure expertise supports reliable, cloud-based deployments.
 
 ## Expertise
 
 - **Technologies**: C# | .NET 9.0 | ASP.NET Core | Blazor | MSSQL | Azure | Web APIs | EF Core | Dapper
-- **Architecture**: Clean Architecture | N-Layer | CQRS | Design Patterns | Unit & Integration Testing
+- **Architecture & Pattern**: Clean Architecture | N-Layer | Vertical Slice Architecture | DDD | CQRS | Design Patterns | Unit & Integration Testing
 - **AI & Automation**: Generative AI | LangChain | CrewAI | OpenAI | RAG | Vector Databases | n8n
 
 ## Professional Status
 
-- **Availability**: Open to remote or relocation-based opportunities as of March 10, 2025.
 - **Collaboration**: Seeking impactful projects and strategic partnerships.
 
 ## Contact
