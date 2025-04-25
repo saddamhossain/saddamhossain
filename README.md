@@ -1,5 +1,5 @@
 ## Hi there! I'm Md. Saddam Hossain 👋
-#### <p align="left">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 𝐢𝐧 .𝐍𝐄𝐓 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬
+#### <p align="left">Software Engineer | Specialist in .NET Development and Generative AI Solutions
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)](https://www.saddamhossain.net) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddamhossaindotnet/)
