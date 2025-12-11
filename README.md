@@ -62,8 +62,6 @@ Next-generation AI writing platform for businesses, freelancers, and content cre
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddamhossain&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamhossain&theme=tokyo-night&hide_border=false&custom_title=GitHub%20Activity&area=true" alt="Activity Graph"/>
 </p>
