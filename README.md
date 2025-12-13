@@ -68,14 +68,9 @@ Next-generation AI writing platform for businesses, freelancers, and content cre
 
 <p align="center">
   <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&theme=tokyonight&layout=compact" />
+    <img width="48%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saddamhossain&theme=tokyonight" />
-  <img width="48%"
-       src="https://streak-stats.demolab.com?user=saddamhossain&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="92%"
-       src="https://github-profile-trophy.vercel.app/?username=saddamhossain&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
