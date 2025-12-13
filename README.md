@@ -55,15 +55,32 @@ Next-generation AI writing platform for businesses, freelancers, and content cre
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saddamhossain&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saddamhossain&theme=tokyonight" />
+  <img width="98%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamhossain&theme=tokyo-night&hide_border=false&custom_title=GitHub%20Activity&area=true" alt="Activity Graph"/>
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saddamhossain&theme=tokyonight" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saddamhossain&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saddamhossain&theme=tokyonight" />
+  <img width="48%"
+       src="https://streak-stats.demolab.com?user=saddamhossain&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="92%"
+       src="https://github-profile-trophy.vercel.app/?username=saddamhossain&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img width="98%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=saddamhossain&theme=tokyo-night&custom_title=GitHub%20Activity&area=true" />
 </p>
 
 ---
