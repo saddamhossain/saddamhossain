@@ -55,26 +55,26 @@ Next-generation AI writing platform for businesses, freelancers, and content cre
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="98%"
+  <img width="96%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img width="48%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saddamhossain&theme=tokyonight" />
-  <img width="48%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saddamhossain&theme=tokyonight" />
+    <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saddamhossain&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamhossain&theme=tokyonight&layout=compact" />
+   <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saddamhossain&theme=tokyonight" />
     <img width="48%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saddamhossain&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="98%"
+  <img width="96%"
        src="https://github-readme-activity-graph.vercel.app/graph?username=saddamhossain&theme=tokyo-night&custom_title=GitHub%20Activity&area=true" />
 </p>
 
