@@ -58,7 +58,6 @@ Next-generation AI writing platform for businesses, freelancers, and content cre
   <img width="96%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saddamhossain&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img width="48%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saddamhossain&theme=tokyonight" />
