@@ -30,9 +30,9 @@ I design and develop **production-grade, maintainable, and high-performance appl
 | Domain                  | Skills & Technologies |
 |-------------------------|----------------------|
 | **Backend Architecture** | Clean Architecture • Layered Architecture • Vertical Slice • CQRS • MediatR • DDD |
-| **Backend Stack**        | C# 14 • .NET 8/9/10 • ASP.NET Core • Web API • EF Core • Dapper |
+| **Backend Stack**        | C# 14 • .NET 10 • ASP.NET Core • Web API • EF Core • Dapper |
 | **Frontend**             | Blazor (Server & WASM) • Razor Pages • Minimal APIs |
-| **Mobile Apps**          | Flutter • Dart • Provider / Riverpod / BLoC • Platform Channels |
+| **Mobile Apps**          | Flutter • Dart |
 | **Database**             | SQL Server • Query Optimization • Indexing & Performance |
 | **DevOps & Cloud**       | GitHub Actions • Azure DevOps • CI/CD • Swagger/OpenAPI |
 
