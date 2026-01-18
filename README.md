@@ -48,7 +48,7 @@ Comprehensive SaaS platform designed for freelancers, providing project manageme
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
 
 ### 🚀 [Deenify – Where Deen Meets Daily Life](https://deenify.me/)
-Personal Islamic lifestyle and companion app focused on daily prayers, dua, adhkar, habit tracking, reminders, and fostering spiritual consistency.
+Islamic lifestyle and companion app focused on daily prayers, dua, adhkar, habit tracking, reminders, and fostering spiritual consistency.
 
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
 
