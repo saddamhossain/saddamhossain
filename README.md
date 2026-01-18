@@ -52,7 +52,7 @@ Islamic lifestyle and companion app focused on daily prayers, dua, adhkar, habit
 
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
 
-### 🚀 [Blazing Writer – AI Content Generation Suite](https://blazingwriter.com/)
+### 🚀 [Blazing Writer – The Next Generation AI Writing Solution](https://blazingwriter.com/)
 Next-generation AI writing platform for businesses, freelancers, and content creators with advanced templates and productivity tools.
 
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
