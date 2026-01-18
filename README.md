@@ -42,12 +42,19 @@ I design and develop **production-grade, maintainable, and high-performance appl
 
 ## 🌟 Featured Projects
 
-### 🚀 [Freelancify – AI-Powered Freelancer Platform](https://freelancify.net/)
-Full-stack SaaS platform for freelancers: project management, client tracking, and AI content generation.  
+### 🚀 [Freelancify – Work Smarter, Freelance Better](https://freelancify.net/)
+Comprehensive SaaS platform designed for freelancers, providing project management, client management, invoicing, expense tracking, and AI-powered content generation.
+
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
 
-### ✍️ [Blazing Writer – AI Content Generation Suite](https://blazingwriter.com/)
-Next-generation AI writing platform for businesses, freelancers, and content creators.  
+### 🚀 [Deenify – Where Deen Meets Daily Life](https://deenify.me/)
+Personal Islamic lifestyle and companion app focused on daily prayers, dua, adhkar, habit tracking, reminders, and fostering spiritual consistency.
+
+**Stack:** .NET 10 • Blazor • EF Core • SQL Server
+
+### 🚀 [Blazing Writer – AI Content Generation Suite](https://blazingwriter.com/)
+Next-generation AI writing platform for businesses, freelancers, and content creators with advanced templates and productivity tools.
+
 **Stack:** .NET 10 • Blazor • EF Core • SQL Server
 
 ---
