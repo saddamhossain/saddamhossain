@@ -45,17 +45,22 @@ I design and develop **production-grade, maintainable, and high-performance appl
 ### 🚀 [Freelancify – Work Smarter, Freelance Better](https://freelancify.net/)
 Comprehensive SaaS platform designed for freelancers, providing project management, client management, invoicing, expense tracking, and AI-powered content generation.
 
-**Stack:** .NET 10 • Blazor • EF Core • SQL Server
+**Stack:** .NET 10 • ASP.NET Core Web API • Blazor • EF Core • SQL Server
 
 ### 🚀 [Deenify – Where Deen Meets Daily Life](https://deenify.me/)
 Islamic lifestyle and companion app focused on daily prayers, dua, adhkar, habit tracking, reminders, and fostering spiritual consistency.
 
-**Stack:** .NET 10 • Blazor • EF Core • SQL Server
+**Stack:** .NET 10 • ASP.NET Core Web API • Blazor • EF Core • SQL Server
 
 ### 🚀 [Blazing Writer – The Next Generation AI Writing Solution](https://blazingwriter.com/)
 Next-generation AI writing platform for businesses, freelancers, and content creators with advanced templates and productivity tools.
 
-**Stack:** .NET 10 • Blazor • EF Core • SQL Server
+**Stack:** .NET 10 • ASP.NET Core Web API • Blazor • EF Core • SQL Server
+
+### 🚀 [Expense Budget Pro – Professional Expense Tracking & Budget Control System](https://expensebudgetpro.saddamhossain.net/)
+Next-generation expense tracking & budget control system.
+
+**Stack:** .NET 10 • ASP.NET Core Web API • Blazor • EF Core • SQL Server
 
 ---
 
